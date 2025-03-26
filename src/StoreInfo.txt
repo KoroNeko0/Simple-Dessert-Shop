@@ -1,0 +1,21 @@
+
+===================== Shop's Information =====================
+--Shop's Name: Maha Shop
+--Manager's Info:
+Shop's Manager Name : Memo
+Age : 21 years
+
+--Shop Item's Infomation:
+Total Number Of Desserts : 1
+
+>> All Desserts List <<
+Dessert : Cookie
+item's ID : 222
+Flavor : Strawberry
+Size : S
+Quantity : 13
+Cookie's ingredients Cost : 200.0 (SAR)
+
+
+
+--Total Cost : 200.0 (SAR)
